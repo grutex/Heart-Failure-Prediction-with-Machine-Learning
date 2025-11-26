@@ -4,6 +4,8 @@ This project builds upon the work presented by **_Merlin Alex_** & **_Maheen Has
 
 # Heart-Failure-Survival-Prediction-with-Machine-Learning
 📊 A Beat Ahead: ML in Cardiology. Using the power of Machine Learning to illuminate the shadows of Heart Failure. Turning data into a lifeline by predicting mortality with precision and care.
+
+[Google Colabolatory of the Project](https://colab.research.google.com/drive/1uTj5PE84BZ8ZuCoFtqn3ZQ4cWv6C8s3q?authuser=2)
   
 Members - Github:  
   Roberto Almeida Burlamaque Catunda - @grutex
