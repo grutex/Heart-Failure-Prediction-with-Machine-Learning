@@ -29,7 +29,6 @@ This project builds upon the work presented by **_Merlin Alex_** & **_Maheen Has
   Machine Learning - 2nd Semester of 2025 @ C.E.S.A.R School, Recife, Brazil  
 
  <br/>
- <br/>
  
 ## **< HOW TO ; STEP-BY-STEP >**
   1. 
