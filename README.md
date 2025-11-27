@@ -11,24 +11,26 @@ This project builds upon the work presented by **_Merlin Alex_** & **_Maheen Has
 
 <br/>
 
-[Google Colabolatory of the Project](https://colab.research.google.com/drive/1uTj5PE84BZ8ZuCoFtqn3ZQ4cWv6C8s3q?authuser=2)  
+[Project's Dataset](https://archive.ics.uci.edu/dataset/519/heart+failure+clinical+records)  
+[Project's Google Colabolatory](https://colab.research.google.com/drive/1uTj5PE84BZ8ZuCoFtqn3ZQ4cWv6C8s3q?authuser=2)  
+
 
 <br/>
 
-**Colaborators & Github:**  
+## **Colaborators & Github:**  
   Roberto Almeida Burlamaque Catunda -- @grutex  
   Gabriel Reis -- @13grmp  
-  Joao Pedro -- @joaopedrofds 
+  Joao Pedro -- @joaopedrofds  
   Marina da Fonseca Frias de Siqueira Campos -- @MarinaFFSC  
   David Ian Pereira Paula -- @davidian19  
 
 <br/>
 
-**Discipline & Institution:**  
+## **Discipline & Institution:**  
   Machine Learning - 2nd Semester of 2025 @ C.E.S.A.R School, Recife, Brazil  
 
  <br/>
  <br/>
  
-**< HOW TO ; STEP-BY-STEP >**
+## **< HOW TO ; STEP-BY-STEP >**
   1. 
