@@ -6,7 +6,7 @@ This project builds upon the work presented by **_Merlin Alex_** & **_Maheen Has
 
 
 # Heart-Failure-Survival-Prediction-with-Machine-Learning
-A Beat Ahead: ML in Cardiology. Turning data into a lifeline by predicting a heart failure survivability odds with precision and care.
+ML in Cardiology: turning data into a lifeline by predicting a heart failure survivability odds with precision and care.
 
 <br/>
 
