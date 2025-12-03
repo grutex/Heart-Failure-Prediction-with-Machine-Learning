@@ -43,7 +43,7 @@ This guide provides step-by-step instructions to set up the environment, configu
 ### 2. Clone/Access the Project
 
 ```bash
-cd c:\Users\gabbr\Desktop\ml-cesar
+cd *LOCAL ON DRIVE*\ml-cesar
 ```
 
 ### 3. Start Everything
@@ -76,6 +76,15 @@ You should see 10 containers running: fastapi, postgres, minio, mlflow, jupyterl
 | **ThingsBoard** | http://localhost:8080 | sysadmin@thingsboard.org / sysadmin - tenant@thingsboard.org | tenant |
 
 ---
+### How to use
+  After executing the container, the ThingsBoard Dashboard will be your home.
+  Inside the Dashboard you can send data strings as JSON values to the model by filling the boxes with the corresponding data types
+  The JSON files will be sent to the predictor, which will predict the target column "DEATH_EVENT"
+  After predicted, this data will be appended to the Postgres Database, and thus being used for future predictions.
+  Metrics will be updated on the graphics plottage inside the Dashboard , as Well as the graphs visualization.
+
+####
+
 
 ### Basic Operations
 
