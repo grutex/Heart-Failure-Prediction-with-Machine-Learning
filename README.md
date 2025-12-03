@@ -39,6 +39,7 @@ This guide provides step-by-step instructions to set up the environment, configu
 
 - **Docker Desktop** installed (with Docker Compose)
 - **Git** (optional)
+- **csv file** Download the .csv file presented on this Git's root.
 
 ### 2. Clone/Access the Project
 
